@@ -1,0 +1,5 @@
+Task 1 :- “call center analysis” where we wanted to reflect the relevant KPI’s and metrics. 
+
+Task 2 :- “Customer Churn Analysis”, here we wanted to visualize the “Customer Churn Ratio” along with the possible reasons for the churning. 
+
+Task 3 :-  “Gender Diversity & Inclusion” wherein we wanted to define relevant KPIs in hiring, promotion, performance, and turnover, create a visualization and write the root causes of their slow progress.
